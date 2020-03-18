@@ -1,4 +1,6 @@
 You must add the file "application.properties" to the "src/main/resources" source folder.
+The database parameters are for MySQL with port 3306.
+Modify these values for your particular database.
 
 Include the following statements:
 spring.mvc.view.prefix=/WEB-INF/views/
