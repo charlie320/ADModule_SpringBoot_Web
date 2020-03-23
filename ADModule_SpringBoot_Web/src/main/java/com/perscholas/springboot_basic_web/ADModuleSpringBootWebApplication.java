@@ -10,10 +10,10 @@ import org.springframework.context.annotation.Bean;
 import com.perscholas.springboot_basic_web.filters.AuthenticationFilter;
 
 @SpringBootApplication
-public class QeModuleSpringBootBasicWebApplication {
+public class ADModuleSpringBootWebApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(QeModuleSpringBootBasicWebApplication.class, args);
+		SpringApplication.run(ADModuleSpringBootWebApplication.class, args);
 	}
 
 	@Bean
